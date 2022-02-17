@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heading Paragraph and Emmet</title>
+</head>
+<body>
+    <h1>Abhishek</h1>
+    <h2>Abhishek pandey</h2>
+    <h3>Abhishek pandey</h3>
+    <h4>abhishek pandey</h4>
+    <h5>abhishek pandey</h5>
+    <h6>abhi</h6>
+    <p>Lorem ipsum dolor sit. Lorem ipsum dolor sit amet consectetur adipisicing <strong>This is strong</strong> Quasi fugit natus minima cum accusantium earum, aut minus ipsum nemo perferendis sunt porro <em>This is emphasized</em> commodi vero aliquam laudantium quis blanditiis sed distinctio voluptatum accusamus architecto iure!</p>
+    
+    <p>first   <br>this is new line</p>
+    <p>secound</p>
+    <p>third</p>
+    <p>fourth</p>
+    <p>fiveth</p>
+
+</body>
+</html>
